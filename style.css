@@ -1,0 +1,34 @@
+.jumbotron {
+    background-color: #428bca;
+}
+
+.jumbotron2 {
+    background-color: red;
+}
+
+.jumbotron h1, p {
+    color: white;
+}
+
+p,
+h1,
+h4 {
+    font-family: 'Roboto Slab', serif;
+}
+
+#funText {
+    color: black;
+    font-size: 24px;
+    font-family: 'Roboto Slab', serif;
+}
+
+#box {
+    height: 100px;
+    width: 100p;
+    margin: auto;
+    padding: 3px;
+}
+
+.test-css-class {
+    border: 120px solid red;
+}
