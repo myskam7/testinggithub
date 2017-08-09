@@ -32,3 +32,14 @@ h4 {
 .test-css-class {
     border: 120px solid red;
 }
+
+.another-fake-class {
+    padding: background-image: -webkit-gradient(linear, left top, left bottom, from(blue), to(red));
+    background-image: -webkit-linear-gradient(top, blue, red);
+    background-image: -moz-linear-gradient(top, blue, red);
+    background-image: linear-gradient(to bottom, blue, red);
+}
+
+.jumbotronafdsa{
+    color: black;
+}
